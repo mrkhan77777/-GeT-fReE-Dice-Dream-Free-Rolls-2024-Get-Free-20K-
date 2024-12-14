@@ -14,7 +14,7 @@ Free rolls provide players with opportunities to continue playing and aiming for
 Gameplay Enhancement
 Integrating free rolls into the game enhances the overall gameplay by increasing player engagement and retention. Players are more likely to stay invested in the game when they have the chance to play more without interruptions.
 
-Free rolls create a sense of excitement and anticipation as players await their turn to roll the dice again. This anticipation adds a layer of thrill to the gaming experience, keeping players hooked and eager to continue playing.
+Free rolls create a sense of and anticipation as players await their turn to roll the dice again. This anticipation adds a layer of thrill to the gaming experience, keeping players hooked and eager to continue playing.
 
 Official Rewards vs. Third-Party Apps
 Official rewards in Dice Dreams are those directly provided by the game developers as part of in-game achievements, challenges, or events. These rewards are legitimate and integrated into the game's design, offering players valuable benefits.
